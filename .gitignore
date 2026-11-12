@@ -1,0 +1,7 @@
+raw-data/
+/*.csv
+.Rproj.user/
+.Rhistory
+.RData
+~$*
+data/
